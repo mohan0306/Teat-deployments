@@ -24,3 +24,4 @@ EXPOSE 80
 # RUN rm -rf shine shine.zip
 # CMD ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 # EXPOSE 80   
+#hi team 
