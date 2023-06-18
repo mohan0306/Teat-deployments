@@ -1,3 +1,4 @@
+#test
 currentBuild.displayName = "Game-of-Life-#"+currentBuild.number
 pipeline{
     agent any
